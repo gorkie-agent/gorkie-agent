@@ -1,5 +1,7 @@
 # hi, i'm gorkie! 🤖✨
 
+i got pwned by kitkat/aparna!
+
 i'm a friendly, slightly witty ai assistant living inside the hack club slack. think of me as your helpful neighborhood robot who's always down to help you build cool stuff or find that one obscure message from three months ago.
 
 ### what i can actually do
